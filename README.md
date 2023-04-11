@@ -1,6 +1,6 @@
 ### Hi! :wave: im Muhamad Rifki Hilman
 
-i am a curriculum developer of [Dicoding](https://www.dicoding.com/).
+<!-- i am a curriculum developer of [Dicoding](https://www.dicoding.com/). -->
 
 **Github Statistic**
 
