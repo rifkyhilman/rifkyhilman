@@ -15,10 +15,3 @@ I am a student from the BSD branch of Information Technology Development Univers
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkyhilman&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-
-### Reach me on
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifky_hillman) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifki-hilman) 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rifkyhilman)
-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12521366) 
-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rifkyhillman26) 
