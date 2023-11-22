@@ -2,8 +2,8 @@
 
 I am a student from the BSD branch of Information Technology Development University (BSI), majoring in informatics technology, undergraduate level
 
-- 🔭 I'm currently participating in MSIB-05 activities on Hactive8 Program Web Development
-- 🌱 I'm currently learning React js
+- 🔭 I'm currently participating in MSIB-05 activities on Hactiv8 Program Web Development
+- 🌱 I'm currently learning Vue js
 - 💬 Ask me about games, technology, music
 
 ### Tech Stack
