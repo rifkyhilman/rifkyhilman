@@ -1,7 +1,7 @@
 ### Hi! :wave: im Muhamad Rifki Hilman
 
-- 🔭 I'm currently creating a point of sale (POS) system using Javascript
-- 🌱 I'm currently learning React js and Payment Gateway
+- 🔭 I'm currently creating a Lajoo Seller App
+- 🌱 I'm currently learning TypeScript and React Native
 - 💬 Ask me about technology, music, anime
 
 ### Tech Stack
